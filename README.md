@@ -5,7 +5,7 @@ A chess engine that will (eventually) use MCTS, aided with a NN for policy and b
 Please let me know if you have any suggestions. 👍
 
 ### Currently doing:
-    - Writing interpreter for UCI protocal 
+- Writing interpreter for UCI protocol
 
 ### Work done:
-    - UCI-compatible GUI setup locally
+- UCI-compatible GUI setup locally
