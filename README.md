@@ -11,6 +11,7 @@ Please let me know if you have any suggestions. 👍
 
 ### Currently doing: <a name="current"></a>
 - Have game logic implemented with bitboards
+- Researching bitboards and reverse-engineering Leela Chess Zero
 
 ### Work done: <a name="done"></a>
 - Basic interpreter for UCI protocol
